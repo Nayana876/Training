@@ -1,0 +1,2 @@
+C:\Users\nrajith\source\repos\BackendTraining\Day2_Assignment\Day2_Assignment\obj\Debug\Day2_Assignment.csproj.AssemblyReference.cache
+C:\Users\nrajith\source\repos\BackendTraining\Day2_Assignment\Day2_Assignment\obj\Debug\Day2_Assignment.csproj.CoreCompileInputs.cache
