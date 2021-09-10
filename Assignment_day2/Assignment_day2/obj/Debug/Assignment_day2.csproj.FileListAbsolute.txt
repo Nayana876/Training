@@ -1,7 +1,0 @@
-C:\Users\nrajith\source\repos\Assignment_day2\Assignment_day2\bin\Debug\Assignment_day2.exe.config
-C:\Users\nrajith\source\repos\Assignment_day2\Assignment_day2\bin\Debug\Assignment_day2.exe
-C:\Users\nrajith\source\repos\Assignment_day2\Assignment_day2\bin\Debug\Assignment_day2.pdb
-C:\Users\nrajith\source\repos\Assignment_day2\Assignment_day2\obj\Debug\Assignment_day2.csproj.AssemblyReference.cache
-C:\Users\nrajith\source\repos\Assignment_day2\Assignment_day2\obj\Debug\Assignment_day2.csproj.CoreCompileInputs.cache
-C:\Users\nrajith\source\repos\Assignment_day2\Assignment_day2\obj\Debug\Assignment_day2.exe
-C:\Users\nrajith\source\repos\Assignment_day2\Assignment_day2\obj\Debug\Assignment_day2.pdb
