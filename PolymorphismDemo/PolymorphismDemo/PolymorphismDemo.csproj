@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>PolymorphismDemo.OperatorOverload</StartupObject>
+    <StartupObject>PolymorphismDemo.AbstractDemo</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractDemo.cs" />
     <Compile Include="Class1.cs" />
     <Compile Include="OperaterOverload.cs" />
     <Compile Include="Program.cs" />
