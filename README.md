@@ -4,4 +4,4 @@ Main branch- Day1
 
 Assignment branch - Day2 
 
-Day3 branch - Day3 activies 
+Day3 branch - Day3 activities 
