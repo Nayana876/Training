@@ -20,7 +20,7 @@ namespace Day4
     class IndexedClass
     {
         private string[] names = new string[10];
-        public string this[int index]
+        public string this[int index] //indexer
         {
             get
             {
@@ -33,6 +33,23 @@ namespace Day4
                     names[index] = value;
                 }
             }
+        }
+        public int this[string name] //indexer
+        {
+            get
+            {
+                int index = 0;
+                while (index < 10)
+                {
+                    if (names[index] == name)
+                    {
+                        return index;
+                    }
+                    index++;
+                }
+                return index;
+            }
+            
         }
     }
 }
